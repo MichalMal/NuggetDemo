@@ -1,0 +1,16 @@
+c:\Sites\NuggetDemo\bin\Debug\net5.0\NuggetDemo.exe
+c:\Sites\NuggetDemo\bin\Debug\net5.0\NuggetDemo.deps.json
+c:\Sites\NuggetDemo\bin\Debug\net5.0\NuggetDemo.runtimeconfig.json
+c:\Sites\NuggetDemo\bin\Debug\net5.0\NuggetDemo.runtimeconfig.dev.json
+c:\Sites\NuggetDemo\bin\Debug\net5.0\NuggetDemo.dll
+c:\Sites\NuggetDemo\bin\Debug\net5.0\ref\NuggetDemo.dll
+c:\Sites\NuggetDemo\bin\Debug\net5.0\NuggetDemo.pdb
+c:\Sites\NuggetDemo\obj\Debug\net5.0\NuggetDemo.csprojAssemblyReference.cache
+c:\Sites\NuggetDemo\obj\Debug\net5.0\NuggetDemo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Sites\NuggetDemo\obj\Debug\net5.0\NuggetDemo.AssemblyInfoInputs.cache
+c:\Sites\NuggetDemo\obj\Debug\net5.0\NuggetDemo.AssemblyInfo.cs
+c:\Sites\NuggetDemo\obj\Debug\net5.0\NuggetDemo.csproj.CoreCompileInputs.cache
+c:\Sites\NuggetDemo\obj\Debug\net5.0\NuggetDemo.dll
+c:\Sites\NuggetDemo\obj\Debug\net5.0\ref\NuggetDemo.dll
+c:\Sites\NuggetDemo\obj\Debug\net5.0\NuggetDemo.pdb
+c:\Sites\NuggetDemo\obj\Debug\net5.0\NuggetDemo.genruntimeconfig.cache
